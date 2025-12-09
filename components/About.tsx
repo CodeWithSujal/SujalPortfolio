@@ -63,7 +63,7 @@ const About: React.FC = () => {
               </div>
             </div>
 
-            <a href="../SujalMalhotra-Resume.pdf" download="SujalResume.pdf" className="flex items-center gap-2 px-6 py-3 bg-white text-black font-bold rounded hover:bg-gray-200 transition-colors">
+            <a href="https://github.com/CodeWithSujal/SujalPortfolio/raw/main/SujalMalhotra-Resume.pdf" download="SujalResume.pdf" className="flex items-center gap-2 px-6 py-3 bg-white text-black font-bold rounded hover:bg-gray-200 transition-colors">
               <Download size={18} />
               Download Resume
             </a>
